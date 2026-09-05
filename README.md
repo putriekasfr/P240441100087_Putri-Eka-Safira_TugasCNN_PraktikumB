@@ -1,0 +1,1 @@
+# P240441100087_Putri-Eka-Safira_TugasCNN_PraktikumB

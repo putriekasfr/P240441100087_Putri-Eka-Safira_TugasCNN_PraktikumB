@@ -1,1 +1,2 @@
-# P240441100087_Putri-Eka-Safira_TugasCNN_PraktikumB
+240441100052_Tsabita shafa aurellia_TugasCNN_PraktikumB
+240441100087_Putri-Eka-Safira_TugasCNN_PraktikumB
